@@ -2,6 +2,8 @@
 
 🎓 **First-Class Biochemistry (BSc) Graduate | Bioinformatics & Genomics | Data Analytics for Global Health**
 
+![Mariam Eniola Sulaiman | Bioinformatics & Genomics](https://raw.githubusercontent.com/S-Mae/S-Mae/main/git.webp)
+
 I am passionate about using **data and molecular science** to improve patient outcomes especially in **underrepresented regions like Nigeria and sub-Saharan Africa**.  
 My background in **molecular biology and bioinformatics** drives me to bridge **bench research** and **computational analysis** to understand the **molecular mechanisms underlying cancer and neurological disorders**, identify **genetic signatures and expression patterns**, and contribute to **targeted therapy** and **disease prevention**.
 
