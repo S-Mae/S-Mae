@@ -2,8 +2,7 @@
 
 🎓 **First-Class Biochemistry (BSc) Graduate | Bioinformatics & Genomics | Data Analytics for Global Health**
 
-I am passionate about using **data and molecular science** to improve patient outcomes especially in **underrepresented regions like Nigeria and sub-Saharan Africa**.  
-My background in **molecular biology and bioinformatics** drives me to bridge **bench research** and **computational analysis** to understand the **molecular mechanisms underlying cancer and neurological disorders**, identify **genetic signatures and expression patterns**, and contribute to **targeted therapy** and **disease prevention**.
+I am passionate about using **data and molecular science** to improve patient outcomes especially in **underrepresented regions like Nigeria and sub-Saharan Africa**. My background in **molecular biology and bioinformatics** drives me to bridge **bench research** and **computational analysis** to understand the **molecular mechanisms underlying cancer and neurological disorders**, identify **genetic signatures and expression patterns**, and contribute to **targeted therapy** and **disease prevention**.
 
 ### Research Focus
 - Molecular and Functional Genomics  
@@ -17,11 +16,6 @@ My background in **molecular biology and bioinformatics** drives me to bridge **
 **Bioinformatics Tools:** NCBI, KEGG, UniProt, GEO2R, ExPASy, BioEdit, GraphPad Prism  
 **Data Analysis:** R, Excel, SQL, Statistical Modelling, Data Visualization  
 **Focus Areas:** Molecular Pathway Analysis | Functional Annotation | Research Reporting  
-
-### Ongoing & Future Work
-- **Comparative Analysis of Cancer Mortality (Globocan Dataset):** Exploring regional disparities in cancer outcomes and their genomic correlations.  
-- **Gene Expression and Target Discovery:** Profiling expression datasets for potential therapeutic targets in cancer and neurological disorders.  
-- **Health Data Integration:** Investigating genomic and public health data intersections to support **precision medicine** in African contexts.  
 
 ### Publications
 - **Sulaiman, M. E.** et al. (2024). *Antidepressant activity of Mucuna pruriens in chronic mild stress-induced depression in Drosophila melanogaster.* *Neuroscience and Behavioral Physiology.* [DOI: 10.1007/s11055-024-01710-x](https://doi.org/10.1007/s11055-024-01710-x)  
