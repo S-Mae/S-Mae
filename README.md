@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mariam
+# 👋 Hello, I'm Mariam
 
 🎓 **First-Class Biochemistry (BSc) Graduate | Bioinformatics & Genomics | Data Analytics for Global Health**
 
@@ -26,7 +26,7 @@ My background in **molecular biology and bioinformatics** drives me to bridge **
 ### Publications
 - **Sulaiman, M. E.** et al. (2024). *Antidepressant activity of Mucuna pruriens in chronic mild stress-induced depression in Drosophila melanogaster.* *Neuroscience and Behavioral Physiology.* [DOI: 10.1007/s11055-024-01710-x](https://doi.org/10.1007/s11055-024-01710-x)  
 - **Sulaiman, M. E.** et al. (2025). *Cytotoxic effect of tetrahydroquinoline derived from Trametes cingulata on cervical cancer cell lines.* *(Manuscript submitted to Journal of Ethnopharmacology.)*
-- **Sulaiman, M. E.** et al. (2025). *Nutritional knowledge, attitude and practices of mothers regarding vegetable oil consumption in rural and urban areas of Oyo State, Nigeria.* *World Nutrition.* [DOI: 10.26596/wn.2025163113-119] 
+- **Sulaiman, M. E.** et al. (2025). *Nutritional knowledge, attitude and practices of mothers regarding vegetable oil consumption in rural and urban areas of Oyo State, Nigeria.* *World Nutrition.* [DOI: 10.26596/wn.2025163113-119](https://doi.org/10.26596/wn.2025163113-119)
 
 ### Highlights
 - 🥇 **Overall Best Graduating Student (2023)** – Fountain University  
