@@ -34,3 +34,6 @@ By combining bioinformatics, genomics, and analytical insights, I aim to contrib
 
 ### 🤝 Open To
 Collaborative research opportunities in genomics and computational biology | Bioinformatics and healthcare analytics roles | Graduate programs and fellowships in oncology, neuroscience, and precision medicine. 
+
+**LinkedIn:** [linkedin.com/in/mariamsulaiman](https://www.linkedin.com/in/mariamsulaiman)  
+**Location:** Oyo State, Nigeria
