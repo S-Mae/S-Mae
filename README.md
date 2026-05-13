@@ -24,9 +24,9 @@ I am passionate about using **data and molecular science** to improve patient ou
 
 ### Highlights
 - 🥇 **Imaging4All Pro Grant Recipient (2025)** – University of York
+- 🥇 **Poster Presenter (2024)** – *Tau2024 Global Conference* ([Depression](https://drive.google.com/file/d/1MFffqlSh22kMZD7nMWufBgxyojayxveU/view?usp=drive_link))  
 - 🥇 **Overall Best Graduating Student (2023)** – Fountain University  
 - 🥇 **Best Graduate in Molecular Biology & Genetic Engineering (2023)**  
-- 🥇 **Poster Presenter** – *Tau2024 Global Conference* ([Depression](https://drive.google.com/file/d/1MFffqlSh22kMZD7nMWufBgxyojayxveU/view?usp=drive_link))  
 - 🥇 Alumnus – *BioRTC-ISN Pan-African Summer School (2023)*  
 
 ### Vision
