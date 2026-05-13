@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mariam
 
-🎓 **First-Class Biochemistry (BSc) Graduate | Bioinformatics & Genomics | Data Analytics for Global Health**
+🎓 **Imaging4All Pro Grant Recipient | First-Class Biochemistry (BSc) Graduate | Bioinformatics & Genomics | Data Analytics for Global Health**
 
 I am passionate about using **data and molecular science** to improve patient outcomes especially in **underrepresented regions like Nigeria and sub-Saharan Africa**. My background in **molecular biology and bioinformatics** drives me to bridge **bench research** and **computational analysis** to understand the **molecular mechanisms underlying cancer and neurological disorders**, identify **genetic signatures and expression patterns**, and contribute to **targeted therapy** and **disease prevention**.
 
@@ -23,9 +23,10 @@ I am passionate about using **data and molecular science** to improve patient ou
 - **Sulaiman, M. E.** et al. (2025). *Nutritional knowledge, attitude and practices of mothers regarding vegetable oil consumption in rural and urban areas of Oyo State, Nigeria.* *World Nutrition.* [DOI: 10.26596/wn.2025163113-119](https://doi.org/10.26596/wn.2025163113-119)
 
 ### Highlights
+- 🥇 **Imaging4All Pro Grant Recipient (2025)** – University of York
 - 🥇 **Overall Best Graduating Student (2023)** – Fountain University  
 - 🥇 **Best Graduate in Molecular Biology & Genetic Engineering (2023)**  
-- 🥇 Poster Presenter – *Tau2024 Global Conference* ([Depression](https://drive.google.com/file/d/1MFffqlSh22kMZD7nMWufBgxyojayxveU/view?usp=drive_link))  
+- 🥇 **Poster Presenter** – *Tau2024 Global Conference* ([Depression](https://drive.google.com/file/d/1MFffqlSh22kMZD7nMWufBgxyojayxveU/view?usp=drive_link))  
 - 🥇 Alumnus – *BioRTC-ISN Pan-African Summer School (2023)*  
 
 ### Vision
